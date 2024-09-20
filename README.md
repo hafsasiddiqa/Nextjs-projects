@@ -1,6 +1,6 @@
 # Digital Clock Component
 
-A digital clock component built using React, which displays the current time and date with options to toggle between 12-hour and 24-hour formats, select different timezones, and switch between various color themes. The component updates every second and is styled with basic TailwindCSS.
+A digital clock component built using Nextjs, which displays the current time and date with options to toggle between 12-hour and 24-hour formats, select different timezones, and switch between various color themes. The component updates every second and is styled with basic TailwindCSS.
 
 ## Features
 
